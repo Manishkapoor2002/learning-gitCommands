@@ -1,2 +1,4 @@
 manish kapoor
-this is only for testing purpost
+this is only for testing purpose
+this line id add from the web interface
+also correct the spelling of "purpose"
